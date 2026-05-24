@@ -1,0 +1,43 @@
+VAR_GLOBAL
+(*ENTRADAS*)
+	boton1:BOOL;
+	boton2:BOOL;
+	boton3:BOOL;
+	boton4:BOOL;
+	boton5:BOOL;
+	boton6:BOOL;
+	10cent:BOOL;
+	50cent:BOOL;
+	100cent:BOOL;
+	selector1:BOOL;
+	selector2:BOOL;
+	selector3:BOOL;
+	selector4:BOOL;
+	selector5:BOOL;
+	selector6:BOOL;
+	M:BOOL;
+	P:BOOL;
+	devolucion:BOOL;
+	atasca:BOOL;
+	rearme:BOOL;
+	auto:BOOL;
+	caeobjeto:BOOL;
+	recogeobjeto:BOOL;
+	recogecambio:BOOL;
+(*SALIDAS*)
+	dispensador1:BOOL;
+	dispensador2:BOOL;
+	dispensador3:BOOL;
+	dispensador4:BOOL;
+	dispensador5:BOOL;
+	dispensador6:BOOL;
+	dinero:INT;
+	cambio:INT;
+(*CONSTANTES*)
+	precio1:INT:=100;
+	precio2:INT:=130;
+	precio3:INT:=80;
+	precio4:INT:=160;
+	precio5:INT:=200;
+	precio6:INT:=90;
+END_VAR
