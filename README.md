@@ -1,0 +1,1 @@
+Proyecto de Automatización Industrial de segundo de GIERM 25-26 sobre el automatismo encargado de manejar una máquina expendedora y su visualización
